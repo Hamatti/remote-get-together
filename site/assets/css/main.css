@@ -4147,3 +4147,11 @@ input, select, textarea {
 		}
 
 	}
+
+	a:focus {
+		outline: 3px solid #4696e5;
+	}
+
+	#header a:focus {
+		outline: 3px solid white;
+	}

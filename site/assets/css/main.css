@@ -3986,7 +3986,8 @@ input, select, textarea {
 
 				#header .image {
 					font-size: 0.6em;
-					max-width: 60vw;
+          max-width: 60vw;
+          margin-bottom: 2rem;
 				}
 
 		}

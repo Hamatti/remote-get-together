@@ -3934,7 +3934,8 @@ input, select, textarea {
 				}
 
 				#header .image {
-					overflow: hidden;
+          overflow: hidden;
+          margin-bottom: 5rem;
 				}
 
 		}
